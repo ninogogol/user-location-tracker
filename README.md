@@ -6,6 +6,7 @@ This application tracks the location of multiple users on a map. The location da
 
 - Semantic HTML5 markup
 - CSS custom properties
+- Flexbox
 - Mobile-first workflow
 - JavaScript
 - [Leaflet](https://leafletjs.com/) - An open-source JavaScript library for maps
