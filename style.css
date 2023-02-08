@@ -2,7 +2,7 @@
 
 :root {
     --white: #ffffff; 
-    --black: #111111;
+    --black: #1a1919;
 }
 
 * {
@@ -10,7 +10,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Space Mono', monospace;
-    color: #000000;
+    color: var(--black);
 }
 
 .bg-image {
@@ -56,5 +56,11 @@ select {
     }
     .leaflet-popup-content {
         font-size: 1.5em !important;
+    }
+}
+
+@media (orientation: landscape) {
+    h1 {
+        padding-block: 8px;
     }
 }
