@@ -11,5 +11,5 @@ This application tracks the location of multiple users on a map. The location da
 - [Leaflet](https://leafletjs.com/) - An open-source JavaScript library for maps
 - [OpenStreetMap](https://www.openstreetmap.org/#map=5/47.398/1.011) - A free map of the world
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/ninogogol/user-location-tracker)
+- Live Site URL: [GitHub Page](https://ninogogol.github.io/user-location-tracker/)
